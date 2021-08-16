@@ -1,5 +1,5 @@
 import React from 'react'
-import { TweetButton } from './TweetButton'
+import { TweetButton } from './tweet-button'
 
 export const App: React.FC<{}> = () => 
     <>
